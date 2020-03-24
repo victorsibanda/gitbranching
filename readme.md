@@ -6,7 +6,7 @@ as well as conflicts :smiley:
 
 ## What happens when repo isn't clean
 
-## Learn to make a branch
+# Learn to make a branch
 
 `git checkout -b <nameofbranch>`
 
